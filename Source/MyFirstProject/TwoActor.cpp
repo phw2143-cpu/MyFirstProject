@@ -15,7 +15,8 @@ ATwoActor::ATwoActor()
 void ATwoActor::BeginPlay()
 {
 	Super::BeginPlay();
-	// 추가된 주석
+	// 추가된 주석 456
+	UE_LOG(LogTemp, Warnning, TEXT("Bye");
 }
 
 // Called every frame
