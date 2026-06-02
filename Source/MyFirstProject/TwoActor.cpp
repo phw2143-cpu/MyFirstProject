@@ -15,7 +15,7 @@ ATwoActor::ATwoActor()
 void ATwoActor::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	// 추가된 주석
 }
 
 // Called every frame
