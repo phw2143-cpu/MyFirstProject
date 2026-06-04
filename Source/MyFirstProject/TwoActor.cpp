@@ -18,6 +18,7 @@ void ATwoActor::BeginPlay()
 	// 추가된 주석 456
 	UE_LOG(LogTemp, Warnning, TEXT("Bye");
 	// Test 
+	UE_LOG(LogTemp, Warnning, TEXT("DevelopBranch");
 }
 
 // Called every frame
