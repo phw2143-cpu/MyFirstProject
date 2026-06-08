@@ -19,6 +19,7 @@ void ATwoActor::BeginPlay()
 	UE_LOG(LogTemp, Warnning, TEXT("Bye");
 	// Test 
 	UE_LOG(LogTemp, Warnning, TEXT("DevelopBranch");
+	UE_LOG(LogTemp, Warnning, TEXT("MainBranch");
 }
 
 // Called every frame
